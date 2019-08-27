@@ -1,0 +1,10 @@
+messages:
+  access-denied: '&cAccess denied!'
+  specify-block: 'You must pass the block material name'
+  not-a-block: '&cThat is not a block!'
+  invalid-item: '&cThat is not a valid material!'
+  removed: '&eThat block is now unrestricted.'
+  added: '&eThat block is now restricted.'
+  not-allowed: '&cYou are not allowed to place that block!'
+  list-header: '&eBlock based materials:%br%%br%'
+  list-data: '&6%value%'
